@@ -1,0 +1,1 @@
+export const API_SERVER_URL = "https://vivanwebsolution.com/mercado_free/web/app_dev.php/"; 
